@@ -1,5 +1,8 @@
 # Changelog
 
+## v4.1.1
+- [Update to CODEOWNERS](https://github.com/actions/checkout/pull/1510)
+
 ## v4.1.0
 - [Add support for partial checkout filters](https://github.com/actions/checkout/pull/1396)
 
